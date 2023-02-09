@@ -1,4 +1,4 @@
-# Adicionar-dados-a-um-database
+# Adicionar-dados-de-glicemia-a-um-database
 Este projeto adiciona valores de glicemia em um banco de dados para fins de armazenamento e criação de dashboards.
 
 No arquivo CSV são armazenadas duas informações:
@@ -23,5 +23,6 @@ Deste modo, tem-se um arquivo CSV semelhante ao modelo abaixo para ser lido por 
 		
 A motivação deste projeto foi permitir a visualização dos valores de minha glicemia com o fim de fortalecer o controle glicemico, contribuindo para o tratamento de minha diabetes tipo 1.
 
+Deste modo, foi possível gerar insights uteis do comportamento de minha glicemia por meio de uma dashboard constuida utilizando o software Tableau. Tal dashboard é apresentada em consultas médicas quando necessário, permitindo que médicos também acompanhem o controle de minha diabetes tipo 1 de forma facilitada.
 
 
