@@ -21,6 +21,8 @@ Deste modo, tem-se um arquivo CSV semelhante ao modelo abaixo para ser lido por 
 		103,2023-02-08 08:05:04
 		139,2023-02-08 11:03:11
 		
+Finalizada a leitura do arquivo CSV, os dados são inseridos no banco de dados MySQL, hospedado em um servidor local.
+
 A motivação deste projeto foi permitir a visualização dos valores de minha glicemia com o fim de fortalecer meu controle glicemico, contribuindo para o tratamento de minha diabetes tipo 1.
 
 Deste modo, foi possível gerar insights uteis do comportamento de minha glicemia por meio de uma dashboard constuida utilizando o software Tableau. Tal dashboard é apresentada em consultas médicas quando necessário, permitindo que médicos também acompanhem o controle de minha diabetes tipo 1 de forma facilitada.
