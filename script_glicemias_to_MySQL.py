@@ -5,7 +5,7 @@ import os
 from sqlalchemy import create_engine
 
 #1 - abre o arquivo txt e coleta o valor da glicemia
-glicemias = pd.read_csv('arquivo/Glicemia.txt', delimiter = ",", names=['glic_valor','glic_data'])
+glicemias = pd.read_csv('arquivo/Glicemia.txt', sep = ",", names=['glic_valor','glic_data'])
 
 #2 Conectar ao banco de dados MySQL
 engine = create_engine("mysql+pymysql://root:34153416@localhost/Glicemia")
