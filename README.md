@@ -34,7 +34,7 @@ Com as informações dispostas na tabela final, foi construída a dashboard abai
 
 A dashboard está conectada ao banco de dados MySQL, deste modo, as informações nela presentes são atualizadas sempre que o script Python é executado.
 
-Deste modo, foi possível gerar insights uteis do comportamento de minha glicemia por meio do acompanhamento da dashboard constuida com o Tableau. Tal arquivo é também apresentado em consultas médicas quando necessário, permitindo que médicos também acompanhem o controle de minha diabetes tipo 1 de forma facilitada.
+Assim, foi possível gerar insights uteis do comportamento de minha glicemia por meio do acompanhamento da dashboard constuida com o Tableau. Tal arquivo é também apresentado em consultas médicas quando necessário, permitindo que médicos também acompanhem o controle de minha diabetes tipo 1 de forma facilitada.
 
 A motivação deste projeto foi permitir a visualização dos valores de minha glicemia com o fim de fortalecer meu controle glicemico, contribuindo para o tratamento de minha diabetes tipo 1.
 
