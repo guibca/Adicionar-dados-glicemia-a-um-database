@@ -1,5 +1,3 @@
-get_ipython().system('pip install sqlalchemy')
-get_ipython().system('pip install pymysql')
 import pandas as pd
 import os
 from sqlalchemy import create_engine
