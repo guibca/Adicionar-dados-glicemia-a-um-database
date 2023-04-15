@@ -3,7 +3,7 @@ Este projeto adiciona valores de glicemia em um banco de dados para fins de arma
 
 No arquivo CSV são armazenadas duas informações:
 
-		(a) glic_valor: Valor do índice de açucar no sangue em mg/dl.
+		(a) glic_valor: Valor do índice de açucar no sangue (glicemia) em mg/dl.
 
 		(b) glic_data: Data e hora da coleta, armazenada em formato timestamp.
  
@@ -30,12 +30,12 @@ Por fim, executa-se uma consulta SQL para tratar os dados, classificando o valor
 
 Com as informações dispostas na tabela final, foi construída a dashboard abaixo, utilizando a ferramenta Tableau:
 
-<img width="1440" alt="Captura de Tela 2023-02-08 às 23 47 06" src="https://user-images.githubusercontent.com/124844502/217704873-b41be0ec-2879-4925-8353-f0daaa01d54c.png">
 
-A dashboard está conectada ao banco de dados MySQL, deste modo, as informações nela presentes são atualizadas sempre que o script Python é executado.
+<img width="1157" alt="image" src="https://user-images.githubusercontent.com/124844502/232182218-bd84d2a5-dd37-4e19-af4f-b6b6416bc84a.png">
 
-Assim, foi possível gerar insights uteis do comportamento de minha glicemia por meio do acompanhamento da dashboard constuida com o Tableau. Tal arquivo é também apresentado em consultas médicas quando necessário, permitindo que médicos também acompanhem o controle de minha diabetes tipo 1 de forma facilitada.
+
+A dashboard está conectada ao banco de dados MySQL, deste modo, as informações são atualizadas sempre que o script Python é executado.
+
+Assim, foi possível gerar insights uteis do comportamento de minha glicemia por meio do acompanhamento da dashboard constuida com o Tableau. Tal arquivo é apresentado em consultas médicas quando necessário, permitindo que médicos tamém acompanhem o controle de minha diabetes tipo 1.
 
 A motivação deste projeto foi permitir a visualização dos valores de minha glicemia com o fim de fortalecer meu controle glicemico, contribuindo para o tratamento de minha diabetes tipo 1.
-
-Como projeto futuro, espero fortalecer minhas habilidades para desenvolver um aplicativo web com estas funcionalidades implantadas, permitindo que pessoas que se encontram "no escuro" em relação ao controle de seu diabetes, possam ser ajudadas com a visualização de seus dados de glicemias apurados.
